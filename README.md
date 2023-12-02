@@ -12,3 +12,6 @@
 
  ### Sequence Diagram
 
+ ![Sequence drawio](https://github.com/Sarda20/snake-game/assets/68392079/3e6f42a8-7997-4dd5-a47a-630562c68202)
+
+
