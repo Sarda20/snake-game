@@ -10,4 +10,6 @@
 
  ![class diagram drawio](https://github.com/Sarda20/snake-game/assets/68392079/30d0cd93-8466-401a-a92a-a8fa4556b233)
 
+ ### Sequence Diagram
 
+ ![Sequencediagram drawio](https://github.com/Sarda20/snake-game/assets/68392079/81e7d67c-a455-4f46-bb5c-c26f2060e3fc)
